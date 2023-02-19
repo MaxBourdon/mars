@@ -1,5 +1,5 @@
 # MARS: Masked Automatic Ranks Selection in Tensor Decompositions
-This repository contains code for our paper [MARS: Masked Automatic Ranks Selection in Tensor Decompositions](https://arxiv.org/abs/2006.10859), AISTATS 2023.
+This repository contains code for our paper [MARS: Masked Automatic Ranks Selection in Tensor Decompositions](https://arxiv.org/abs/2006.10859).
 
 
 The main files are:
